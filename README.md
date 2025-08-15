@@ -28,27 +28,6 @@ Welcome to my simple number guessing game! This is one of my early Java projects
 
 
 
-\### 🚀 How to Run It
-
-
-
-1\. \*\*Clone or download this repo\*\*  
-
-Of course, Akshatha! Here's the full content of your beginner-friendly README.md file, ready to copy and paste:
-
-
-
-\## 🎯 Number Guessing Game in Java
-
-
-
-Welcome to my simple number guessing game! This is one of my early Java projects, built to practice loops, conditionals, user input, and random number generation. It’s a console-based game where the player tries to guess a randomly generated number within a limited number of attempts.
-
-
-
----
-
-
 
 
 \### 🚀 How to Run It
@@ -56,15 +35,8 @@ Welcome to my simple number guessing game! This is one of my early Java projects
 
 
 1\. \*\*Clone or download this repo\*\*  
-
-
-
-
 
 git clone https://github.com/your-username/NumberGuessingGame.git
-
-
-
 
 
 2\. \*\*Navigate to the project folder\*\*  
@@ -93,7 +65,7 @@ java Number\_guessing
 
 \- The computer randomly picks a number between 1 and 100.
 
-\- You get \*\*2 attempts\*\* to guess the number.
+\- You get \*\*5 attempts\*\* to guess the number.
 
 \- After each guess, you’ll be told if your guess is too high or too low.
 
@@ -138,6 +110,7 @@ This project is part of my journey to master Java fundamentals. I’m learning h
 \### 🙌 Feedback Welcome
 
 If you're a beginner like me or just curious, feel free to fork this project, try it out, or suggest improvements. I’m learning every day and would love to hear your thoughts!
+
 
 
 

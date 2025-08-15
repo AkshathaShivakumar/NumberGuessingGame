@@ -50,23 +50,6 @@ Welcome to my simple number guessing game! This is one of my early Java projects
 
 
 
-\### 🧠 What I Learned
-
-\- How to use `Scanner` for user input
-
-\- How to generate random numbers with `Random`
-
-\- How to use loops and conditionals to control game flow
-
-\- How to handle input bugs (like `nextInt()` vs `nextLine()`)
-
-\- How to write clear and readable code with proper formatting
-
-
-
----
-
-
 
 \### 🚀 How to Run It
 
@@ -155,6 +138,7 @@ This project is part of my journey to master Java fundamentals. I’m learning h
 \### 🙌 Feedback Welcome
 
 If you're a beginner like me or just curious, feel free to fork this project, try it out, or suggest improvements. I’m learning every day and would love to hear your thoughts!
+
 
 
 
